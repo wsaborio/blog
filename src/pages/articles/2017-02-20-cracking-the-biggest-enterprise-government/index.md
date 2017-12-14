@@ -1,0 +1,36 @@
+---
+title: "8. Cracking the biggest enterprise: Government?"
+date: "2017-02-20T22:12:03.284Z"
+layout: post
+path: "/8-cracking-the-biggest-enterprise-government/"
+categories:
+  - Enterprise
+  - Startups
+  - VC
+description: "The attention on government reminds me just how much the public enterprise spends on IT."
+---
+I wanted to take a breath and zoom out from connectivity for a bit as I think there’s exciting activity in perhaps one unlikely place: government. This is just a short post with initial thoughts, but there’s more ideas and research I’d like to share hopefully soon.
+
+<strong>Really? Government?</strong>
+
+I know, I know. You probably growing weary of all the hot takes and protests drowning the airwaves these days. (I’m really trying to wean myself off CNN.)
+
+Yet the attention on government reminds me just how much the public enterprise spends on IT. In 2017 the Federal government has budgeted to spend <a href="https://obamawhitehouse.archives.gov/blog/2016/10/26/laying-foundation-more-secure-modern-government">$82 billion on IT</a>, while state and local governments spent around <a href="http://www.govtech.com/budget-finance/2016-Market-Forecast-Where-Government-Is-Spending-Money-Technology.html">$99.6 billion in 2016</a>. Assuming U.S. tech spending reaches $1.5 trillion in 2017<sup>1</sup>, government accounts for 12% of that figure. Some investors have even called govtech the <a href="http://govtechfund.com/2016/01/govtech-the-400-billion-market-hiding-in-plain-sight/">“$400 billion market hiding in plain sight.”</a> You’ve gotta admit — that’s yuge.
+
+N.B.: I started my career in govtech for things like HR and payroll platforms and was consistently surprised at (a.) the amount of money spent on tech, (b.) the inefficiency of those dollars, and (c.) how, in some cases, a startup could solve these issues. It’s all about targeting the right buyer with the right solution at the right time. It’s not impossible, and the business logic is sound, as Joe Lonsdale of 8VC and OpenGov and Zac Bookman of OpenGov <a href="https://medium.com/8vc-news/b2g-the-excitement-of-an-old-line-industry-54734c715140#.omiqckvwx">have written about</a>.
+
+<strong>Tough customer</strong>
+
+Now sometimes that’s easier said than done; most argue <a href="https://www.bloomberg.com/news/articles/2016-12-08/tech-startups-struggle-to-tap-82-billion-in-federal-contracts">startup entry into Federal government</a> hinges squarely on <a href="https://ssir.org/articles/entry/fostering_for_profit_civic_innovation">easing procurement processes</a>. <a href="http://www.naspo.org/dnn/News/ArtMID/6856/ArticleID/1691">State</a> and <a href="https://sunlightfoundation.com/2013/09/27/the-state-of-local-procurement/">local</a> processes are not far off. All other things equal, I’d tend to agree.
+
+Trump advisor Peter Thiel has tackled Federal procurement head-on: Palantir recently won a <a href="https://www.wsj.com/articles/palantir-prevails-in-lawsuit-over-u-s-army-contracting-practices-1477940218?mg=id-wsj">case against the U.S. Army</a> who, in the eyes of the Court of Federal Claims, failed to comply with a regulation requiring agencies to consider commercial solutions before building their own. This opening, paired with Federal spending growth rates of 3% in SaaS and 4.5% in security<sup>2</sup>, could allow VC-backed govtech to expand sales.
+
+It’s a small win (enforcing this over <a href="http://www.ncmahq.org/docs/default-source/default-document-library/pdfs/exec15---ncma-annual-review-of-government-contracting-2015-edition">80K+ annual Federal RFPs</a> boggles the mind, it doesn’t affect state and local, and entrenched interests will fight to prevent change), but it reflects the incoming attitude to government spending. If <a href="http://money.cnn.com/2016/12/07/technology/peter-thiel-trump-transition/">Thiel and his colleagues in the administration</a> move the needle, startups may gain traction in D.C. That could benefit a range of sectors, from <a href="https://www.govtechworks.com/how-7-tech-trends-will-fare-under-president-trump/#gs.J_XRlAU">security to SDN</a> to even <a href="https://www.donaldjtrump.com/press-releases/donald-j.-trump-foreign-policy-speech">AI</a>.
+
+I should note that VC funding to the sector is still relatively small: <a href="https://www.cbinsights.com/blog/govtech-startup-vc-funding">$336 million across 41 deals in 2016</a>, paling in comparison even to just fintech’s $800 million in Q3’16. This is also smaller than govtech’s compliance cousin, <a href="https://www.cbinsights.com/blog/regtech-regulation-compliance-market-map/">regtech</a>, which reached around <a href="https://www.cbinsights.com/blog/regtech-compliance-startup-funding-trends/">$576 million across 89 deals in 2016</a>. Yet the confluence of events in the White House could signal opportunity for the right founders and investors.
+
+Given how unpredictable this administration has proved, there could very well be important changes on the horizon. Government as enterprise SaaS customer shouldn’t be written off just yet. Stay tuned.
+
+[1] Andrew Bartels. “2017 US Tech Budgets: The Outlook for Tech Spending Overall and by Industry.” Forrester Research. 4 November 2016.
+
+[2] Andrew Bartels and Rick Parrish. “U.S. Government Sector Tech Spending Trends, 2017 to 2018.” Forrester Research. 8 February 2017.

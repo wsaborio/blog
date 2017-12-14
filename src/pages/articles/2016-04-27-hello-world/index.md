@@ -1,0 +1,21 @@
+﻿---
+title: "1. Hello world"
+date: "2016-04-27T22:12:03.284Z"
+layout: post
+path: "/1-hello-world/"
+categories:
+  - Mexico
+  - Startups
+  - Tech
+description: "Here goes nothing."
+---
+<p>Here goes nothing.</p>
+<p>So I’m starting a pretty unique journey. After I spent a few years in strategy consulting, where I spent a lot of time advising executives in telecom and development, I’ve just finished a brief but intense stint in Mexico City’s growing entrepreneurship and tech landscape. Now I’m starting an MBA to focus on these topics.</p>
+<p>I’m excited for these next steps! I’ve told people about what I’m doing and oftentimes I get a common response: “You should start a blog!” Peer pressure, man.
+But seriously, I think there’s huge value in sharing my insights. Recently I’ve noticed (among colleagues, MBAs, and techies) that there’s a lot of interest in Mexico right now, and in all the opportunities it’s presenting. Hopefully I can shed some light on things on the ground there.</p>
+<p>(I’ll also throw in some recommendations for Mexico City also because, according to my very unscientific and anecdotal evidence, I’ve never seen a city be more “hot” than CDMX is right now. Probably for good reason, though, since the city’s food, weather, and general quality of life are extremely hard to beat.)</p>
+<p>So real quick: Just who am I? I’m an MBA at Wharton, and before this I worked for a bit for ALL Venture Partners, Mexico’s leading early stage venture capital fund. Prior to that I spent a few years at the consulting firm Monitor Deloitte, advising clients in telecommunications, finance, and international development in Mexico and a number of other countries. I spend most my time thinking (and writing!) about entrepreneurship, telecom and tech, and Latin America. A lot of times I think and write about all of them at once.</p>
+<p>This blog’s meant to chronicle my upcoming travels and throw out some ideas about entrepreneurship and tech/telecom and Latin America. Might include some bad jokes for good measure. Maybe I’ll even arrive at some useful insights. Hope you can enjoy the ride with me!</p>
+<p>If you want to get in touch you can email me at wial (at) Wharton (dot) upenn (dot) edu, or find me on <a href="https://www.linkedin.com/in/will-saborio-77b7b429/">LinkedIn</a> or <a href="https://twitter.com/willsab">Twitter</a>.</p>
+<p>Talk soon!</p>
+<p>Will</p>
