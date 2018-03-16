@@ -68,6 +68,21 @@ class SiteNavi extends React.Component {
                   📚reading list
                 </Link>
               </li>
+              <li
+                className={
+                  location.pathname === '/places/'
+                    ? 'nav-item active'
+                    : 'nav-item'
+                }
+              >
+                <Link
+                  to="/places/"
+                  style={{ boxShadow: 'none' }}
+                  className="nav-link"
+                >
+                  📍places
+                </Link>
+              </li>
               <li className="nav-item dropdown">
                 <a
                   className="nav-link dropdown-toggle"

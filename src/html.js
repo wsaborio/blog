@@ -69,6 +69,12 @@ export default class HTML extends React.Component {
             async
             src="//platform.twitter.com/widgets.js"
           />
+          <script
+            src="https://api.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.js"
+          />
+          <link href='https://api.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.css'
+            rel='stylesheet'
+          />
 
         </body>
       </html>

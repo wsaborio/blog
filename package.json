@@ -23,8 +23,10 @@
     "gatsby-transformer-remark": "^1.1.0",
     "gatsby-transformer-sharp": "^1.5.0",
     "lodash": "^4.15.0",
+    "mapbox-gl": "^0.44.0",
     "popper.js": "^1.12.9",
     "react-lazyload": "^2.2.7",
+    "react-mapbox-gl": "^3.8.0",
     "react-responsive-grid": "^0.3.4",
     "react-tap-event-plugin": "^2.0.1",
     "react-typography": "^0.15.10"

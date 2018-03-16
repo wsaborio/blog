@@ -31,8 +31,8 @@ class Profile extends React.Component {
           </div>
           <div className="container">
             <div className="service-box">
-              <p>Hey. I’m currently an MBA student at Wharton. I spend most my time thinking about entrepreneurship and venture capital, most recently in HR tech and telecom.</p>
-              <p>In my free time I enjoy coffee, whiskey, coffee whiskey, travel, fiction and non-fiction, music of recorded and live varieties, and comedy.</p>
+              <p>Hey. I’m currently a Solutions Engineer at a San Francisco-based startup called Checkr.</p>
+              <p>Outside of work I spend a lot of time thinking about entrepreneurship and venture capital, especially in HR tech and insurance. I enjoy coffee, whiskey, coffee whiskey, tinkering with front-ends and data, travel, fiction and non-fiction, music of recorded and live varieties, comedy, lists, and self-referential humor.</p>
             </div>
           </div>
           <div className="container">
